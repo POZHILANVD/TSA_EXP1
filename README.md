@@ -89,10 +89,5 @@ plt.show()
 <img width="786" height="544" alt="image" src="https://github.com/user-attachments/assets/22584a74-3604-4e92-82fc-34038ec4ae09" />
 
 
-
-
-
-
-
 # RESULT:
 Thus we have created the python code for plotting the time series of given data.
